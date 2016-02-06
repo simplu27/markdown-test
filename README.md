@@ -53,7 +53,7 @@ $(document).ready(function(){
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](../basico/blob/gh-pages/index.html)
 
 ```md
 [I'm an inline-style link](https://www.google.com)
@@ -62,5 +62,5 @@ $(document).ready(function(){
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](../basico/blob/gh-pages/index.html)
 ```
