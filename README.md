@@ -84,6 +84,14 @@ supported)
 	2. Second Two
 3. Third
 4. Four
+```md
+1. First
+2. Second
+	1. Second One
+	2. Second Two
+3. Third
+4. Four
+```
 
 ## Unordered List
 
@@ -94,11 +102,11 @@ supported)
 * Tre
 * Quatro
 
-``md
+```md
 * Uno
 * Due
 	* Due.1
 	* Due2
 * Tre
 * Quatro
-``
+```
