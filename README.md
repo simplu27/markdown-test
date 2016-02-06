@@ -89,7 +89,7 @@ supported)
 
 * Uno
 * Due
-** Due.1
-** Due2
+	* Due.1
+	* Due2
 * Tre
 * Quatro
