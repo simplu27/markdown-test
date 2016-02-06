@@ -16,6 +16,7 @@ Alt-H2 Alternative H2 Heading
 -----------------------------
 
 ## Code Block
+
 ```css
 /*Navigation container*/
 
@@ -31,6 +32,7 @@ Alt-H2 Alternative H2 Heading
 ```
 
 ## JS Code Block
+
 ```js
 $(document).ready(function(){  
 	$('a#ham').click(function(e){
@@ -45,6 +47,7 @@ $(document).ready(function(){
 	});
 });  //end ready
 ```
+
 ## Links
 
 [I'm an inline-style link](https://www.google.com)
@@ -84,6 +87,7 @@ supported)
 	2. Second Two
 3. Third
 4. Four
+
 ```md
 1. First
 2. Second
