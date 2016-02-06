@@ -69,7 +69,7 @@ $(document).ready(function(){
 
 - [x] this is a complete item
 - [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), 
+- [x] @mentions, #refs, [links: markdown-test](https://github.com/simplu27/markdown-test), 
 **formatting**, and <del>tags</del> 
 supported
 - [x] list syntax required (any 
