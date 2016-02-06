@@ -76,4 +76,11 @@ supported
 unordered or ordered list 
 supported)
 
+## Ordered Lists
 
+1. First
+2. Second
+	2.1 Second One
+	2.2 Second Two
+3. Third
+4. Four
