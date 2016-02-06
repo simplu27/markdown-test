@@ -29,3 +29,19 @@ Alt-H2 Alternative H2 Heading
 	box-sizing: border-box;
 }
 ```
+
+## JS Code Block
+```js
+$(document).ready(function(){  
+	$('a#ham').click(function(e){
+
+		if($('#navigation ul').hasClass('nav-open')){
+			 $('#navigation ul').removeClass('nav-open');
+			 $('a#ham').html('&#9776;');
+		} else {
+			$('#navigation ul').addClass('nav-open');
+			$('a#ham').html('&#x274C;');
+		}
+	});
+});  //end ready
+```
